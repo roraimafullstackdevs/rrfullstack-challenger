@@ -23,6 +23,22 @@ Um repositório contendo diversos desafios, sejam eles de empresas ou desenvolvi
 5. Na Issue, inclua um link para o seu repositório e uma breve descrição do que você fez.
 6. Compartilhe o link da Issue no grupo da comunidade para que todos possam ver e comentar.
 
+
+
 Lembre-se, o objetivo é aprender e crescer juntos. Todos os níveis de experiência são bem-vindos e encorajamos a colaboração e o apoio mútuo.
 
 Boa sorte com os desafios!
+
+## Bônus
+
+Algumas empresas entraram em contato conosco e expressaram interesse em adicionar os desafios que utilizam em seus processos de seleção ao nosso repositório. Se você representa uma empresa e gostaria de estabelecer uma parceria com a nossa comunidade, entre em contato conosco diretamente através do [Email](virgilio.junior94@gmail.com) ou envie uma mensagem diretamente via [WhatsApp](https://abre.ai/jqAA)
+
+Isso significa que, se você está interessado em enfrentar um desafio que realmente testará suas habilidades e ainda ter a chance de participar de um processo de seleção, esta é uma grande oportunidade!
+
+## Desafios das Empresas
+
+### Woovi
+[Awesome Woovi Challenge](https://github.com/woovibr/awesome-woovi-challenge)
+
+### Pigz
+[Desafios](https://github.com/orangebr/vagas/tree/main/desafios)

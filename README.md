@@ -6,6 +6,17 @@ Um repositório contendo diversos desafios, sejam eles de empresas ou desenvolvi
 ### Devops  
 [Aplicando conhecimentos Base Devops](https://gist.github.com/virgiliojr94/6383b430c80910f03d28f5ef872b2c74) - Desafio Chat2Desk Brasil by [@virgiliojr94](https://github.com/virgiliojr94)
 
+### Backend
+[Desafio: Terminal de Gerenciamento de Investimentos [Off] [Estagiário] [Junior]](https://gist.github.com/virgiliojr94/56703ef76b71aee2d56d646b73841a4a) - Desafio Stone by [@virgiliojr94](https://github.com/virgiliojr94)
+
+[Desafio: Refatoração do Código Gilded Rose [Off] [Estagiário] [Junior]](https://gist.github.com/virgiliojr94/87d782ccd6e1c9298389a00caa65a8f7) - Desafio Stone by [@virgiliojr94](https://github.com/virgiliojr94)
+
+[Desafio: API Carteira de Investimentos [Off] [Junior] [Pleno]](https://gist.github.com/virgiliojr94/bdf8b5df3e0d6908dad8e3930862682b)  - Desafio Stone by [@virgiliojr94](https://github.com/virgiliojr94)
+
+[Desafio - API de Contracheques [Off] [Junior] [Pleno]](https://gist.github.com/virgiliojr94/cdff7266225fb8e7e672db89240a2810) - Desafio Stone by [@virgiliojr94](https://github.com/virgiliojr94)
+
+### Front-end / Mobile
+[Desafio Android Junior](https://gist.github.com/virgiliojr94/e3075c1fcae107eaf0edc0664619cde9) - Desafio Stone by [@virgiliojr94](https://github.com/virgiliojr94)
 
 ## Como Enviar um Desafio
 

@@ -1,6 +1,6 @@
 ### Android
 
-- [Desafio Android Junior, Pleno e Senior](https://gist.github.com/virgiliojr94/e3075c1fcae107eaf0edc0664619cde9) - Desafio Stone by [@virgiliojr94](https://github.com/virgiliojr94)
+- [Desafio Android Junior, Pleno e Senior](https://gist.github.com/virgiliojr94/e3075c1fcae107eaf0edc0664619cde9) - Desafio Rick & Morty by [@virgiliojr94](https://github.com/virgiliojr94)
 
 - [Mentoria Android - Desafio Chuck Noris Jokers](https://github.com/KassioVieira/ChuckNorrisJokesAndroid) - Nível Júnior. - [@KassioLuz](https://github.com/KassioVieira)
 

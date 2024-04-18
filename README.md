@@ -32,6 +32,10 @@ Isso significa que, se você está interessado em enfrentar um desafio que realm
 
 [Desafio Mobile](https://github.com/stone-payments/desafio-mobile)
 
+[Desafio Web](https://github.com/stone-payments/template-desafio-admin)
+
+[Desafio Backend](https://github.com/stone-payments/desafio-backend)
+
 ## Como Enviar um Desafio
 
 1. Crie um [Gist](https://gist.github.com/) no GitHub com a descrição do seu desafio. Certifique-se de incluir um título, uma descrição detalhada do desafio e quaisquer entregáveis esperados.

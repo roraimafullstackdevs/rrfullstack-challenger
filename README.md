@@ -8,6 +8,7 @@ Um repositório contendo diversos desafios, sejam eles de empresas ou desenvolvi
 - 📱 [Mobile](./mobile.md)
 - 🛠️ [Devops](./devops.md)
 - ⚙️ [Backend](./backend.md)
+- 🎲 [Dados](./dados.md)
 
 ## Bônus
 

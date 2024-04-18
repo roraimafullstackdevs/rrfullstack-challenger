@@ -29,12 +29,13 @@ Isso significa que, se você está interessado em enfrentar um desafio que realm
 ### Stone Co
 
 [Desafio Front-end](https://github.com/stone-payments/template-desafio-web)
+
 [Desafio Mobile](https://github.com/stone-payments/desafio-mobile)
 
 ## Como Enviar um Desafio
 
 1. Crie um [Gist](https://gist.github.com/) no GitHub com a descrição do seu desafio. Certifique-se de incluir um título, uma descrição detalhada do desafio e quaisquer entregáveis esperados.
-2. Adicione o link do seu Gist na seção relevante do README deste repositório. ex: [Seu desafio](https://gist.github.com/link-do-seu-desafio) - Desafio Empresa XPTO INC(opcional caso deseje colocar de onde veio o desafio)by [@seu-usuario-github](https://github.com/virgiliojr94)
+2. Adicione o link do seu Gist na seção relevante do README deste repositório. ex: Desafio Backend, adicione  [Seu desafio](https://gist.github.com/link-do-seu-desafio) - Desafio Empresa XPTO INC(opcional caso deseje colocar de onde veio o desafio)by [@seu-usuario-github](https://github.com/virgiliojr94)
 3. Faça um Pull Request com as suas alterações.
 4. Aguarde a revisão e aprovação do Pull Request.
 

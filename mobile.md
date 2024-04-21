@@ -8,10 +8,10 @@
 
 ### React-Native
 
-[Getrak](https://getrak.com.br/) - Nível Pleno -
+- [Getrak](https://getrak.com.br/) - Nível Pleno -
 [Desafio Mobile Getrak](https://gist.github.com/KassioVieira/0e681c7232e8f8df4e5acd7d306fc2fa) - by [@KassioLuz](https://github.com/KassioVieira)
 
-[Ioasys](https://ioasys.com.br/) - Nível Pleno - [Desafio Desafio Ioasys](https://gist.github.com/KassioVieira/ea5176a6edc40d34f92c92c7eb49ffae) by [@KassioLuz](https://github.com/KassioVieira)
+- [Ioasys](https://ioasys.com.br/) - Nível Pleno - [Desafio Desafio Ioasys](https://gist.github.com/KassioVieira/ea5176a6edc40d34f92c92c7eb49ffae) by [@KassioLuz](https://github.com/KassioVieira)
 
 ### Flutter
 

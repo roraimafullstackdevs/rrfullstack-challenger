@@ -9,3 +9,7 @@
 [Desafio - API de Contracheques  [Junior] [Pleno]](https://gist.github.com/virgiliojr94/cdff7266225fb8e7e672db89240a2810) - Desafio  by [@virgiliojr94](https://github.com/virgiliojr94)
 
 [Desafio Elixir](https://gist.github.com/virgiliojr94/7127135f2f8edf6a12fde28ef0f2fbfe) - Desafio  by [@virgiliojr94](https://github.com/virgiliojr94)
+
+[Desafio Desenvolvedor III - Oboticário](https://gist.github.com/virgiliojr94/90903e415c871b37980749859fc7df08) - Desafio by [tallyto](https://github.com/tallyto)
+
+[Desafio Java Pleno - Sicred](https://gist.github.com/virgiliojr94/7882b24932729bed1f0356f38f076abb)- Desafio by [tallyto](https://github.com/tallyto)

@@ -29,13 +29,8 @@ Isso significa que, se você está interessado em enfrentar um desafio que realm
 
 ### Stone Co
 
-[Desafio Front-end](https://github.com/stone-payments/template-desafio-web)
-
-[Desafio Mobile](https://github.com/stone-payments/desafio-mobile)
-
 [Desafio Web](https://github.com/stone-payments/template-desafio-admin)
 
-[Desafio Backend](https://github.com/stone-payments/desafio-backend)
 
 ## Como Enviar um Desafio
 

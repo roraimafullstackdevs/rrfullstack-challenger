@@ -9,3 +9,4 @@
 | [Desafio Elixir](https://gist.github.com/virgiliojr94/7127135f2f8edf6a12fde28ef0f2fbfe) | -                    | [@virgiliojr94](https://github.com/virgiliojr94) |
 | [Desenvolvedor III - Oboticário](https://gist.github.com/virgiliojr94/90903e415c871b37980749859fc7df08) | -                    | [tallyto](https://github.com/tallyto)            |
 | [Java Pleno - Sicred](https://gist.github.com/virgiliojr94/7882b24932729bed1f0356f38f076abb) | -                    | [tallyto](https://github.com/tallyto)            |
+| [Engenheiro de Software Jr - Itaú](https://gist.github.com/virgiliojr94/5767cf6a08060e2e42a384fd80506aca) | -                    | [@virgiliojr94](https://github.com/virgiliojr94)     
